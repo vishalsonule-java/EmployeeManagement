@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "app.message.empSaveSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empSaveSucc'"
+  },
+  {
+    "name": "app.message.mangSaveSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.mangSaveSucc'"
+  },
+  {
+    "name": "app.message.empUpdateSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empUpdateSucc'"
+  },
+  {
+    "name": "app.message.empSaveSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empSaveSucc'"
+  },
+  {
+    "name": "app.message.empSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empSaveFail'"
+  },
+  {
+    "name": "app.message.empSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empSaveFail'"
+  },
+  {
+    "name": "app.message.mangSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.mangSaveFail'"
+  },
+  {
+    "name": "app.message.empDeleteSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empDeleteSucc'"
+  },
+  {
+    "name": "app.message.empUpdateFail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empUpdateFail'"
+  },
+  {
+    "name": "app.message.empUpdateFail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empUpdateFail'"
+  },
+  {
+    "name": "app.message.empSaveSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.empSaveSucc'"
+  },
+  {
+    "name": "app.message.emp-delete-fail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message.emp-delete-fail'"
+  }
+]}

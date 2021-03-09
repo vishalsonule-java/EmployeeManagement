@@ -1,0 +1,23 @@
+app:
+  key: mbBowser
+  properties:
+    empDeleteFail: Employee is not Delete
+    empDeleteSucc: Employee is Delete  Successfuly..
+    empSaveFail: Employee is not Saved
+    empSaveSucc: Employee is Saved  Successfuly..
+    empUpdateFail: Employee is not Update
+    empUpdateSucc: Employee is Update  Successfuly..
+    mangSaveFail: Manager is not Saved
+    mangSaveSucc: Manager is Saved  Successfuly..
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: manager
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: system
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
